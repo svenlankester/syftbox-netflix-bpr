@@ -20,7 +20,7 @@ The primary aim is to apply 🛡️ privacy-enhancing technologies to derive agg
 
 ### 0. UV
 
-This project uses uv as its package manager, if you don't have it yet, you can install it for your system [here](https://docs.astral.sh/uv/getting-started/installation/)
+This project uses uv as its package manager, if you don't have it yet, you can install it for your system [here](https://docs.astral.sh/uv/getting-started/installation/). The project also requires a python version >= 3.9.
 
 ### 1. Preparing your data
 
