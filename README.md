@@ -71,7 +71,6 @@ Configure this app inside SyftBox.
    NETFLIX_CSV="NetflixViewingHistory.csv"               # Mandatory
    OUTPUT_DIR="/home/<your-username>/Downloads/"         # Mandatory
    AGGREGATOR_DATA_DIR="data/"                           # Mandatory
-   SYFTBOX_ASSIGNED_PORT="<port>"
    ```
 
 For MacOS users, you will likely not have your data in /home/.. but instead in /Users/.., make sure to use the correct path.
